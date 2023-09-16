@@ -1,0 +1,3 @@
+/home/resdt/Downloads/OOP-laboratory-works/1/CMakeFiles/main.dir
+/home/resdt/Downloads/OOP-laboratory-works/1/CMakeFiles/edit_cache.dir
+/home/resdt/Downloads/OOP-laboratory-works/1/CMakeFiles/rebuild_cache.dir
